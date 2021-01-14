@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #222;
+  color: #eee;
+}
+
+header,
+footer {
+  background-color: #111;
+  color: #ddd;
+  margin: 0;
+  padding: 0.05rem 0 0.05rem 1rem;
+}
+
+main,
+nav {
+  padding: 0 1rem;
+}
+
+ul {
+  padding-left: 1rem;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
